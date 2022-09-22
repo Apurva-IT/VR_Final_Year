@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.memorypalacevr.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\benny\\Desktop\\Programming\\Unity Projects\\MemoryPalaceVR\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "MemoryPalaceVR [Testing]"
+        }
+      }
+    }
+  ]
+}
